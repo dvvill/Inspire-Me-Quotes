@@ -1,0 +1,23 @@
+SUMMARY:
+InspireMe quotes website where users can browse quotes for inspiration.  The site would have quotes categorized into different types for users to select the quotes
+they want to browse through and an option to have random quotes selected for them if they prefer.  Users would also be able to create accounts if they want to
+be able to store favorites and/or post quotes to their social media accounts. 
+
+LANGUAGE/TECHNOLOGY:
+Python/Django
+
+USER STORIES: (2 TYPES):
+-FIRST USER STORY:
+As a user who is looking for quotes to boost my mood I want a site that has a wide selection of quotes that I can browse through.  I want the site to be easy to
+navigate by selecting the type of quote I want or have quotes randomly selected for me (like a fortune cookie sort of thing) 
+  As a Feel Good user 
+  I want to find quotes that are inspiring, reassuring, motivational, insightful etc
+  So that I can boost my mood 
+  
+-SECOND USER STORY:
+As a user who is looking for quotes as a resource to re-use, I want a site that has variety and is easy to navigate by types. I also need an option to seperate
+quotes I like and an option for getting the quote/s I choose. 
+  As a Resource user
+  I want to choose quotes 
+  So that I can use them (to post on my website, social media page, etc..) 
+  
